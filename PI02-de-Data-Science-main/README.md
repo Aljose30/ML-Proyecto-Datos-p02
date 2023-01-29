@@ -3,7 +3,7 @@
 Este código tiene como objetivo clasificar precios de viviendas en dos categorías: precios inferiores a $999 y precios mayores a $999. El conjunto de datos utilizado está compuesto por información sobre viviendas, incluyendo características como el tipo de propiedad, el número de baños y la ubicación.
 
 
-##Acceso a los archiv:
+##Acceso a los archivos:
 
 https://drive.google.com/drive/folders/1xLzPvyqmxqV0Dkmw-RmZQmKJh4UipNlQ?usp=share_link
 
