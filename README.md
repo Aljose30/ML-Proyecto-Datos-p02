@@ -4,11 +4,11 @@ Aprendizaje supervisado - Prediccion de precios de vivienda
 
 Este código tiene como objetivo clasificar precios de viviendas en dos categorías: precios inferiores a $999 y precios mayores a $999. El conjunto de datos utilizados está compuesto por información sobre viviendas, características incluyendo como el tipo de propiedad, el número de baños y la ubicación.
 
-##Acceso a los archivos:
+## Acceso a los archivos:
 
-https://drive.google.com/drive/folders/1xLzPvyqmxqV0Dkmw-RmZQmKJh4UipNlQ?usp=share_link
+###$ https://drive.google.com/drive/folders/1xLzPvyqmxqV0Dkmw-RmZQmKJh4UipNlQ?usp=share_link
 
-dependencias
+## dependencias
 Para ejecutar este código, es necesario tener las siguientes dependencias instaladas:
 
 entumecido
@@ -17,6 +17,7 @@ matplotlib
 nacido en el mar
 aprender
 Proceso
+
 Se importan los paquetes necesarios y se cargan los conjuntos de datos de entrenamiento y prueba.
 
 Se crea una nueva columna en el conjunto de entrenamiento "category_price", la llamada cual clasifica los precios en dos categorías: precios inferiores a $999 y precios mayores a $999.
